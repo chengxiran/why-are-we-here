@@ -10,6 +10,8 @@ My first experience with this idea was the Schotter sketch. The program creates 
 
 Changing the `CHAOS` value was a simple action, but it changed how I understood the image. When I increased the value, the lower part of the grid became more unstable and energetic. The program did not decide whether that result was better. It only followed the instructions it was given. I had to look at the output and decide whether the new amount of disorder communicated what I wanted. This is an important difference between generating an image and making an artistic decision.
 
+Using GitHub also made this process clearer to me. When I changed the CHAOS value and saved a new version of the sketch, Git recorded what had changed instead of replacing the old version completely. I could compare the earlier image with the new one and return to an older version if necessary. This showed me that programming is not only about producing a final result. It is also about keeping track of decisions, experiments, and revisions. For creative work, this is useful because an unsuccessful version can still teach me something about what I want to do next.
+
 ## From Describing to Specifying
 
 There is a gap between describing an idea and specifying it. I can ask for “an unsettling generative poster,” but that sentence contains many unclear decisions. How much disorder should there be? Should the image feel quiet, violent, mechanical, or playful? What should remain controlled, and what should become random? These are design questions, but programming can help turn them into precise instructions.
